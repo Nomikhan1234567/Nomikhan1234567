@@ -1,4 +1,4 @@
-Nomi king
+
 <!--
 **Nomikhan1234567/Nomikhan1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
